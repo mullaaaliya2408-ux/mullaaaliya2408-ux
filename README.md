@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:140021,25:6D28D9,50:A855F7,75:D946EF,100:FF4FD8&height=260&section=header&text=Aaliya's%20Digital%20Universe&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=AI%20Engineer%20•%20Full%20Stack%20Developer%20•%20Creative%20Builder&descAlignY=58&descSize=18&animation=fadeIn"/>
