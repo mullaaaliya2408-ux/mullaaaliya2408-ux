@@ -3,7 +3,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:140021,25:6D28D9,50:A855F7,75:D946EF,100:FF4FD8&height=260&section=header&text=Aaliya's%20Digital%20Universe&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=AI%20Engineer%20•%20Full%20Stack%20Developer%20•%20Creative%20Builder&descAlignY=58&descSize=18&animation=fadeIn"/>
 
-<img src="./assets/hero-banner.png" width="100%" alt="Aaliya's Digital Universe"/>
+<img src="hero-banner.png" width="100%" alt="Aaliya's Digital Universe"/>
 
 <br><br>
 
@@ -41,7 +41,7 @@
 
 ### *AI Utility for Research, Reasoning & Assistance*
 
-<img src="./aura-mascot.svg" width="180" alt="AURA"/>
+<img src="aura-mascot.svg" width="180" alt="AURA"/>
 
 <br>
 
@@ -485,4 +485,21 @@ Made with 💜 by **Aaliya Mulla**
 
 </div>
 
+=======
+## Hi there 👋
 
+<!--
+**mullaaaliya2408-ux/mullaaaliya2408-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+>>>>>>> 1ab6bee8feab5cc55c5466f120422c42a4ee1e8a
