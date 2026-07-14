@@ -104,8 +104,7 @@
 
 <br>
 
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mullaaaliya2408-ux&layout=compact&theme=radical&hide_border=true&bg_color=0B001A&title_color=FF4FD8&text_color=E879F9"/>
-
+<img src="profile-banner.png" width="180" alt="Profile Photo"/>
 ### 👋 Hello, I'm Aaliya!
 
 I'm a final-year **Artificial Intelligence & Data Science** engineering student with a passion for building intelligent software and beautiful digital experiences.
@@ -402,7 +401,7 @@ A responsive restaurant website focused on elegant UI, smooth animations, and a 
 
 <br><br>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mullaaaliya2408-ux&theme=redical&bg_color=0B001A&color=E879F9&line=FF4FD8&point=C084FC&area=true&hide_border=true"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mullaaaliya2408-ux&theme=radical&bg_color=0B001A&color=E879F9&line=FF4FD8&point=C084FC&area=true&hide_border=true"/>
 
 </div>
 <!-- ================================================= -->
