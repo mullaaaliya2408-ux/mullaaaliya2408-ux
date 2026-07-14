@@ -41,7 +41,7 @@
 
 ### *AI Utility for Research, Reasoning & Assistance*
 
-<img src="./assets/aura-mascot.svg" width="180" alt="AURA"/>
+<img src="./aura-mascot.svg" width="180" alt="AURA"/>
 
 <br>
 
@@ -484,25 +484,5 @@ Whether it's an exciting project, an internship opportunity, or simply a convers
 Made with 💜 by **Aaliya Mulla**
 
 </div>
-
-=======
-## Hi there 👋
-
-<!--
-**mullaaaliya2408-ux/mullaaaliya2408-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
->>>>>>> 1ab6bee8feab5cc55c5466f120422c42a4ee1e8a
-
 
 
