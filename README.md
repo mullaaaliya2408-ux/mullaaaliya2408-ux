@@ -104,7 +104,7 @@
 
 <br>
 
-<img src="profile-banner.png" width="180" alt="Profile Photo"/>
+<img align="right" width="340" src="profile.png" alt="Aaliya Mulla"/>
 ### 👋 Hello, I'm Aaliya!
 
 I'm a final-year **Artificial Intelligence & Data Science** engineering student with a passion for building intelligent software and beautiful digital experiences.
