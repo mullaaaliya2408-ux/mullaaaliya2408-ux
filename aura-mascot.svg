@@ -1,0 +1,151 @@
+<svg viewBox="0 0 420 520" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="bgGlow" cx="50%" cy="38%" r="65%">
+      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#0A0018" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="shellGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="55%" stop-color="#F3E8FF"/>
+      <stop offset="100%" stop-color="#E9D5FF"/>
+    </linearGradient>
+
+    <radialGradient id="faceGrad" cx="45%" cy="35%" r="75%">
+      <stop offset="0%" stop-color="#4C1D6B"/>
+      <stop offset="55%" stop-color="#2E0F4D"/>
+      <stop offset="100%" stop-color="#1A0630"/>
+    </radialGradient>
+
+    <radialGradient id="eyeGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FFE3FA"/>
+      <stop offset="35%" stop-color="#FF4FD8"/>
+      <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="cheekGrad" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FF9FE5" stop-opacity="0.65"/>
+      <stop offset="100%" stop-color="#FF9FE5" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="heartGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFE9FB"/>
+      <stop offset="100%" stop-color="#FF4FD8"/>
+    </linearGradient>
+
+    <linearGradient id="ringGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF4FD8" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#E879F9" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0"/>
+    </linearGradient>
+
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softBlur" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="8"/>
+    </filter>
+  </defs>
+
+  <rect width="420" height="520" fill="url(#bgGlow)"/>
+
+  <!-- twinkle stars -->
+  <g fill="#ffffff">
+    <path d="M60 70 l4 10 10 4 -10 4 -4 10 -4 -10 -10 -4 10 -4 Z" opacity="0.8">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" repeatCount="indefinite"/>
+    </path>
+    <path d="M355 130 l3 8 8 3 -8 3 -3 8 -3 -8 -8 -3 8 -3 Z" opacity="0.6">
+      <animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/>
+    </path>
+    <path d="M340 400 l3 8 8 3 -8 3 -3 8 -3 -8 -8 -3 8 -3 Z" opacity="0.7">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="2.8s" repeatCount="indefinite"/>
+    </path>
+    <path d="M50 380 l3 8 8 3 -8 3 -3 8 -3 -8 -8 -3 8 -3 Z" opacity="0.5">
+      <animate attributeName="opacity" values="1;0.3;1" dur="2.2s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- floating group -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -14; 0 0" dur="3.4s" repeatCount="indefinite"/>
+
+    <!-- soft ground shadow -->
+    <ellipse cx="210" cy="470" rx="80" ry="14" fill="#3B0764" opacity="0.35" filter="url(#softBlur)"/>
+
+    <!-- orbit rings -->
+    <g>
+      <ellipse cx="210" cy="435" rx="95" ry="16" fill="none" stroke="url(#ringGrad)" stroke-width="3">
+        <animateTransform attributeName="transform" type="rotate" values="0 210 435;360 210 435" dur="6s" repeatCount="indefinite"/>
+      </ellipse>
+      <ellipse cx="210" cy="445" rx="65" ry="10" fill="none" stroke="url(#ringGrad)" stroke-width="2" opacity="0.8">
+        <animateTransform attributeName="transform" type="rotate" values="360 210 445;0 210 445" dur="4.5s" repeatCount="indefinite"/>
+      </ellipse>
+    </g>
+
+    <!-- antennae -->
+    <line x1="160" y1="70" x2="140" y2="30" stroke="#E9D5FF" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="140" cy="26" r="9" fill="url(#heartGrad)" filter="url(#glow)">
+      <animate attributeName="opacity" values="0.6;1;0.6" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <line x1="260" y1="70" x2="280" y2="30" stroke="#E9D5FF" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="280" cy="26" r="9" fill="url(#heartGrad)" filter="url(#glow)">
+      <animate attributeName="opacity" values="1;0.6;1" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- ear pods -->
+    <ellipse cx="112" cy="215" rx="20" ry="34" fill="url(#shellGrad)" stroke="#D8B4FE" stroke-width="2"/>
+    <ellipse cx="308" cy="215" rx="20" ry="34" fill="url(#shellGrad)" stroke="#D8B4FE" stroke-width="2"/>
+
+    <!-- head -->
+    <ellipse cx="210" cy="205" rx="128" ry="112" fill="url(#shellGrad)" stroke="#E9D5FF" stroke-width="3"/>
+    <ellipse cx="170" cy="150" rx="45" ry="24" fill="#ffffff" opacity="0.55"/>
+
+    <!-- face screen -->
+    <rect x="108" y="160" width="204" height="120" rx="60" fill="url(#faceGrad)"/>
+    <rect x="108" y="160" width="204" height="120" rx="60" fill="none" stroke="#8B5CF6" stroke-width="1.5" opacity="0.5"/>
+
+    <!-- cheeks -->
+    <circle cx="150" cy="245" r="22" fill="url(#cheekGrad)"/>
+    <circle cx="270" cy="245" r="22" fill="url(#cheekGrad)"/>
+
+    <!-- eyes -->
+    <circle cx="172" cy="215" r="24" fill="url(#eyeGlow)"/>
+    <circle cx="248" cy="215" r="24" fill="url(#eyeGlow)"/>
+    <circle cx="172" cy="215" r="11" fill="#ffffff">
+      <animate attributeName="ry" values="11;1;11" dur="4.6s" begin="1.4s" repeatCount="indefinite" attributeType="XML"/>
+    </circle>
+    <circle cx="248" cy="215" r="11" fill="#ffffff">
+      <animate attributeName="ry" values="11;1;11" dur="4.6s" begin="1.4s" repeatCount="indefinite" attributeType="XML"/>
+    </circle>
+    <path d="M166 208 l4 -8 4 8 8 4 -8 4 -4 8 -4 -8 -8 -4 Z" fill="#FF4FD8" opacity="0.9"/>
+    <path d="M242 208 l4 -8 4 8 8 4 -8 4 -4 8 -4 -8 -8 -4 Z" fill="#FF4FD8" opacity="0.9"/>
+
+    <!-- smile -->
+    <path d="M192 250 Q210 262 228 250" stroke="#FF9FE5" stroke-width="4" fill="none" stroke-linecap="round" filter="url(#glow)"/>
+
+    <!-- decorative star + heart on head -->
+    <path d="M240 175 l3 8 8 3 -8 3 -3 8 -3 -8 -8 -3 8 -3 Z" fill="#FBCFE8" opacity="0.9"/>
+    <path d="M150 190 c-6 -6 2 -14 6 -8 c4 -6 12 2 6 8 c-3 3 -6 6 -6 6 c0 0 -3 -3 -6 -6 Z" fill="#FF4FD8" opacity="0.85"/>
+
+    <!-- body -->
+    <path d="M118 300 Q210 270 302 300 Q320 340 302 400 Q210 435 118 400 Q100 340 118 300 Z"
+          fill="url(#shellGrad)" stroke="#E9D5FF" stroke-width="3"/>
+
+    <!-- arms -->
+    <ellipse cx="98" cy="345" rx="20" ry="34" fill="url(#shellGrad)" stroke="#E9D5FF" stroke-width="2"
+             transform="rotate(-18 98 345)"/>
+    <ellipse cx="322" cy="345" rx="20" ry="34" fill="url(#shellGrad)" stroke="#E9D5FF" stroke-width="2"
+             transform="rotate(18 322 345)"/>
+
+    <!-- heart chest badge -->
+    <path d="M210 340 c-16 -18 -46 -2 -30 22 c10 15 30 28 30 28 c0 0 20 -13 30 -28 c16 -24 -14 -40 -30 -22 Z"
+          fill="url(#heartGrad)" filter="url(#glow)">
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="2.2s" repeatCount="indefinite"/>
+    </path>
+
+    <!-- tiny feet -->
+    <ellipse cx="175" cy="418" rx="16" ry="10" fill="url(#shellGrad)" stroke="#E9D5FF" stroke-width="2"/>
+    <ellipse cx="245" cy="418" rx="16" ry="10" fill="url(#shellGrad)" stroke="#E9D5FF" stroke-width="2"/>
+  </g>
+</svg>
