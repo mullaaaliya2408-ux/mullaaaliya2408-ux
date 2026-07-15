@@ -3,7 +3,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:140021,25:6D28D9,50:A855F7,75:D946EF,100:FF4FD8&height=260&section=header&text=Aaliya's%20Digital%20Universe&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=AI%20Engineer%20•%20Full%20Stack%20Developer%20•%20Creative%20Builder&descAlignY=58&descSize=18&animation=fadeIn"/>
 
-<img src="./assets/hero-banner.png" width="100%" alt="Aaliya's Digital Universe"/>
+<img src="hero-banner.png" width="100%" alt="Aaliya's Digital Universe"/>
 
 <br><br>
 
@@ -36,7 +36,7 @@
 
 ### *AI Utility for Research, Reasoning & Assistance*
 
-<img src="./assets/aura-mascot.svg" width="180" alt="AURA"/>
+<img src="aura-mascot.svg" width="180" alt="AURA"/>
 
 <br>
 
@@ -89,7 +89,7 @@
 
 ##  Heyya, I'm Aaliya!
 
-<img align="right" width="330" src="./assets/profile.png"/>
+<img align="right" width="330" src="profile.png"/>
 
 AI & Data Science Engineer passionate about building **AI-powered products**, **Full Stack Applications**, and elegant **UI/UX experiences**.
 
@@ -238,7 +238,7 @@ Traffic Routing using Dijkstra
 
 <div align="center">
 
-<img src="assets/edu.png" width="200%" alt="Education & Achievements"/>
+<img src="edu.png" width="200%" alt="Education & Achievements"/>
 
 </div>
 
