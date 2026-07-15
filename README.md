@@ -6,8 +6,7 @@
 <img src="hero-banner.png" width="100%" alt="Aaliya's Digital Universe"/>
 
 <br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3200&pause=900&color=E879F9&center=true&vCenter=true&width=900&lines=Welcome+to+my+Digital+Universe+🌌;Crafting+AI-powered+Experiences+✨;From+Ideas+to+Intelligent+Products+🚀;Full+Stack+%7C+AI+%7C+UI%2FUX;Curiosity+Drives+Every+Creation+💜"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=800&color=E879F9&center=true&vCenter=true&width=950&lines=Design.+Build.+Innovate.;AI+%7C+Full+Stack+%7C+UI%2FUX;Creating+Technology+with+Purpose;Always+Curious.+Always+Creating."/>
 
 <br><br>
 
