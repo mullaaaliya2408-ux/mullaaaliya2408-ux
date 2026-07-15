@@ -3,7 +3,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:140021,25:6D28D9,50:A855F7,75:D946EF,100:FF4FD8&height=260&section=header&text=Aaliya's%20Digital%20Universe&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=AI%20Engineer%20•%20Full%20Stack%20Developer%20•%20Creative%20Builder&descAlignY=58&descSize=18&animation=fadeIn"/>
 
-<img src="hero-banner.png" width="100%" alt="Aaliya's Digital Universe"/>
+<img src="./assets/hero-banner.png" width="100%" alt="Aaliya's Digital Universe"/>
 
 <br><br>
 
@@ -30,18 +30,13 @@
 </div>
 
 
-
-<!-- ================================================= -->
-<!--                    🤖 AURA                         -->
-<!-- ================================================= -->
-
 <div align="center">
 
-# 🤖 AURA
+#  AURA
 
 ### *AI Utility for Research, Reasoning & Assistance*
 
-<img src="aura-mascot.svg" width="180" alt="AURA"/>
+<img src="./assets/aura-mascot.svg" width="180" alt="AURA"/>
 
 <br>
 
@@ -90,193 +85,84 @@
 <img src="https://img.shields.io/badge/Status-Building%20the%20Future-A855F7?style=for-the-badge&labelColor=140021"/>
 
 </div>
-<!-- ================================================= -->
-<!--                🌙 MISSION LOG                     -->
-<!-- ================================================= -->
 
-<div align="center">
 
-# 🌙 Mission Log
+##  Heyya, I'm Aaliya!
 
-*"Building technology that is intelligent, elegant, and impactful."*
+<img align="right" width="330" src="./assets/profile.png"/>
 
-</div>
+AI & Data Science Engineer passionate about building **AI-powered products**, **Full Stack Applications**, and elegant **UI/UX experiences**.
+
+💜 I enjoy transforming ideas into products that are intelligent, useful, and beautiful.
 
 <br>
 
-<img align="right" width="340" src="profile.png" alt="Aaliya Mulla"/>
-### 👋 Hello, I'm Aaliya!
-
-I'm a final-year **Artificial Intelligence & Data Science** engineering student with a passion for building intelligent software and beautiful digital experiences.
-
-I enjoy combining **AI, Full Stack Development, and UI/UX Design** to create products that are not only functional but also intuitive and engaging.
-
-Currently, I'm focused on building AI-powered applications, exploring Retrieval-Augmented Generation (RAG), and continuously improving my software engineering skills.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=2800&pause=900&color=E879F9&width=650&lines=AI+Engineer;Full+Stack+Developer;UI%2FUX+Designer;Creative+Problem+Solver;Always+Learning+✨"/>
 
 <br>
 
-### 🎯 Current Focus
+###     Learning & Building
 
-- 🤖 Building AI-powered applications
-- 🧠 Learning advanced RAG architectures
-- ☁️ Exploring AWS & Cloud technologies
-- 💻 Developing scalable full-stack projects
-- 🎨 Designing clean and user-friendly interfaces
+- 🤖 Retrieval-Augmented Generation (RAG)
+- ☁️ AWS & Cloud Computing
+- ⚡ FastAPI & Modern Backend Development
+- 🎨 Beautiful User Experiences
 
-<br>
 
-### 💡 What Drives Me
-
-> I believe great software is created when intelligence meets thoughtful design. Every project I build is an opportunity to solve real problems while creating experiences people genuinely enjoy using.
-
----<!-- ================================================= -->
-<!--                  🎓 EDUCATION                     -->
-<!-- ================================================= -->
-
-<div align="center">
-
-# 🎓 Education
-
-</div>
-
-<br>
-
-<div align="center">
-
-| 🎓 Degree | 🏫 Institute |
-|:---------|:-------------|
-| **Bachelor of Engineering** | **S.G. Balekundri Institute of Technology, Belagavi** |
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Specialization-Artificial%20Intelligence%20%26%20Data%20Science-6D28D9?style=for-the-badge&labelColor=140021"/>
-
-<img src="https://img.shields.io/badge/CGPA-8.3%2F10-FF4FD8?style=for-the-badge&labelColor=140021"/>
-
-<img src="https://img.shields.io/badge/Graduation-2027-C084FC?style=for-the-badge&labelColor=140021"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-> 🌸 *"Every semester is another opportunity to transform curiosity into innovation."*
-
-</div>
-<!-- ================================================= -->
-<!--                 ⚙️ TECH ARSENAL                  -->
-<!-- ================================================= -->
 
 <div align="center">
 
 # ⚙️ Tech Arsenal
 
-*The technologies I use to transform ideas into intelligent digital experiences.*
-
-<br>
-
-### 👨‍💻 Languages
-
-<img src="https://skillicons.dev/icons?i=python,java,javascript,c,mysql&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,c,html,css,react,tailwind,nodejs,express,fastapi,mongodb,mysql,firebase,tensorflow,numpy,pandas,git,github,vscode,figma,postman,aws,gcp&theme=dark"/>
 
 <br><br>
 
-### 🎨 Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap&theme=dark"/>
-
-<br><br>
-
-### ⚙️ Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark"/>
-
-<br><br>
-
-### 🤖 Artificial Intelligence
-
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,numpy,pandas&theme=dark"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/NLP-FF4FD8?style=for-the-badge&labelColor=140021"/>
-<img src="https://img.shields.io/badge/RAG-A855F7?style=for-the-badge&labelColor=140021"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-C084FC?style=for-the-badge&labelColor=140021"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-D946EF?style=for-the-badge&labelColor=140021"/>
-
-<br><br>
-
-### 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark"/>
-
-<br><br>
-
-### ☁️ Cloud
-
-<img src="https://skillicons.dev/icons?i=aws,gcp&theme=dark"/>
-
-<br><br>
-
-### 🛠️ Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux&theme=dark"/>
+<img src="https://img.shields.io/badge/RAG-FF4FD8?style=for-the-badge&labelColor=140021"/>
+<img src="https://img.shields.io/badge/NLP-C084FC?style=for-the-badge&labelColor=140021"/>
+<img src="https://img.shields.io/badge/UI%2FUX-A855F7?style=for-the-badge&labelColor=140021"/>
+<img src="https://img.shields.io/badge/OpenAI-D946EF?style=for-the-badge&labelColor=140021"/>
 
 </div>
-<!-- ================================================= -->
-<!--              🚀 FEATURED CREATIONS                -->
-<!-- ================================================= -->
+
+
 
 <div align="center">
 
-# 🚀 Featured Creations
+#     Project Gallery
 
-*Projects that combine Artificial Intelligence, Full Stack Development, and thoughtful user experiences.*
+*Building intelligent solutions with AI, Full Stack Development & thoughtful design.*
 
 </div>
 
-<br>
-
 <table>
+
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%">
 
-## 🤖 RAGuard AI
+###  RAGuard AI
 
-### Self-Correcting Retrieval-Augmented Generation
+Self-Correcting RAG Pipeline
 
-An intelligent RAG system that validates retrieved information before generating responses, helping reduce hallucinations and improve answer reliability.
-
-**Tech Stack**
-
-`Python` `FastAPI` `RAG` `LLMs` `Vector Database`
+`Python` `FastAPI` `LLM`
 
 <a href="https://github.com/mullaaaliya2408-ux/RAGuard-AI">
-<img src="https://img.shields.io/badge/View%20Project-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View_Project-FF4FD8?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%">
 
-## 🌍 LocalHire
+### 🌍 LocalHire
 
-### AI-Powered Local Hiring Platform
+AI-Powered Hiring Platform
 
-A location-aware hiring platform connecting employers with nearby skilled workers through intelligent recommendations and a modern user experience.
-
-**Tech Stack**
-
-`HTML` `CSS` `JavaScript` `Node.js` `MongoDB`
+`Node.js` `MongoDB` `JavaScript`
 
 <a href="https://github.com/mullaaaliya2408-ux/LocalHire-v2">
-<img src="https://img.shields.io/badge/View%20Project-D946EF?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View_Project-C084FC?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -285,38 +171,63 @@ A location-aware hiring platform connecting employers with nearby skilled worker
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%">
 
-## 🎙️ Nudi Tarabeti
+### 🎙️ Nudi Tarabeti
 
-### AI Interview Coach
+AI Interview Coach
 
-A multilingual interview preparation platform that evaluates confidence, fluency, STAR responses, and communication using AI-powered analysis.
+`React` `FastAPI` `NLP`
 
-**Tech Stack**
-
-`React` `FastAPI` `Speech AI` `NLP`
-
-<a href="#">
-<img src="https://img.shields.io/badge/Coming%20Soon-C084FC?style=for-the-badge"/>
-</a>
+<img src="https://img.shields.io/badge/Coming_Soon-A855F7?style=for-the-badge"/>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%">
 
-## 🧇 WaffleWeb
+### 🧇 WaffleWeb
 
-### Premium Restaurant Website
-
-A responsive restaurant website focused on elegant UI, smooth animations, and a polished browsing experience.
-
-**Tech Stack**
+Luxury Restaurant Website
 
 `HTML` `CSS` `JavaScript`
 
 <a href="https://github.com/mullaaaliya2408-ux">
-<img src="https://img.shields.io/badge/View%20Project-FF4FD8?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View_Project-D946EF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+<td width="33%">
+
+### 🎬 Movie Database
+
+SQL Database Management
+
+`SQL` `MySQL`
+
+<a href="https://github.com/mullaaaliya2408-ux/Movie-database-management-system">
+
+<img src="https://img.shields.io/badge/View_Project-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%">
+
+### 🚦 Smart Traffic
+
+Traffic Routing using Dijkstra
+
+`C` `Algorithms`
+
+<a href="https://github.com/mullaaaliya2408-ux/Smart-traffic-routing-system">
+
+<img src="https://img.shields.io/badge/View_Project-D946EF?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 </td>
@@ -324,89 +235,86 @@ A responsive restaurant website focused on elegant UI, smooth animations, and a 
 </tr>
 
 </table>
-<!-- ================================================= -->
-<!--            🏆 JOURNEY & ACHIEVEMENTS              -->
-<!-- ================================================= -->
 
 <div align="center">
 
-# 🏆 Journey & Achievements
+<img src="assets/edu.png" width="200%" alt="Education & Achievements"/>
 
-*Every milestone reflects continuous learning, curiosity, and the drive to build impactful technology.*
+</div>
+
+
+<div align="center">
+
+# ⚙️ Tech Stack
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Building+AI+%7C+Full+Stack+Applications;Always+Learning+New+Technologies"/>
 
 </div>
 
 <br>
 
-<div align="center">
+<table align="center">
+<tr>
 
-| 🌟 Achievement | Description |
-|:--------------|:------------|
-| 💼 Deloitte Virtual Experience | Successfully completed the **Deloitte Data Analytics Virtual Experience Program (Forage)**, gaining hands-on exposure to data analysis, business insights, and real-world problem solving. |
-| 💡 Smart India Hackathon | Participated in SIH, collaborating on innovative AI-driven solutions. |
-| ☁️ NPTEL Certification | Successfully completed **Cloud Computing** certification. |
-| 📊 NPTEL Certification | Successfully completed **Python for Data Science** certification. |
-| 🤖 AI Projects | Designed and developed multiple AI, NLP, and Full Stack applications. |
-| 🌱 Continuous Learning | Constantly exploring AI, Cloud Computing, RAG Systems, Software Engineering, and Generative AI. |
+<td align="center" width="25%">
 
-</div>
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,c&theme=dark"/>
+
+</td>
+
+<td align="center" width="25%">
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap&theme=dark"/>
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark"/>
+
+</td>
+
+<td align="center" width="25%">
+
+### ☁️ Cloud
+
+<img src="https://skillicons.dev/icons?i=aws,firebase&theme=dark"/>
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Deloitte-Data%20Analytics%20Virtual%20Experience-0076A8?style=for-the-badge&logo=deloitte&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI-NLP-FF4FD8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-Applications-A855F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine-Learning-C084FC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UI%2FUX-Design-D946EF?style=for-the-badge"/>
+
+</div>
+
+<div align="center">
+
+# 📊 GitHub Analytics
+
+<img width="100%" src="https://streak-stats.demolab.com?user=mullaaaliya2408-ux&theme=radical&hide_border=true"/>
+
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Smart%20India%20Hackathon-Participant-6D28D9?style=for-the-badge&labelColor=140021"/>
-
-<img src="https://img.shields.io/badge/NPTEL-Cloud%20Computing-C084FC?style=for-the-badge&labelColor=140021"/>
-
-<img src="https://img.shields.io/badge/NPTEL-Python%20for%20Data%20Science-D946EF?style=for-the-badge&labelColor=140021"/>
-
-<img src="https://img.shields.io/badge/AI-Full%20Stack%20Developer-FF4FD8?style=for-the-badge&labelColor=140021"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mullaaaliya2408-ux&theme=react-dark&hide_border=true&bg_color=0B001A&color=E879F9&line=FF4FD8&point=C084FC"/>
 
 </div>
 
-<br>
-
-<div align="center">
-
-> ✨ *"Learning never stops. Every project, certification, and challenge brings me one step closer to becoming the engineer I aspire to be."*
-
-</div>
-
-<!-- ================================================= -->
-<!--             📊 DEVELOPER ANALYTICS                -->
-<!-- ================================================= -->
-
-<div align="center">
-
-# 📊 Developer Analytics
-
-*"Numbers don't define a developer, but consistency does."*
-
-<br>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mullaaaliya2408-ux&show_icons=true&theme=radical&hide_border=true&bg_color=0B001A&title_color=FF4FD8&icon_color=D946EF&text_color=E879F9"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mullaaaliya2408-ux&theme=radical&hide_border=true&background=0B001A&ring=FF4FD8&fire=D946EF&currStreakLabel=E879F9"/>
-
-<br><br>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mullaaaliya2408-ux&layout=compact&theme=radical&hide_border=true&bg_color=0B001A&title_color=FF4FD8&text_color=E879F9"/>
-
-<img width="49%" src="https://github-profile-trophy.vercel.app/?username=mullaaaliya2408-ux&theme=radical&no-frame=true&no-bg=true&column=3"/>
-
-<br><br>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mullaaaliya2408-ux&theme=radical&bg_color=0B001A&color=E879F9&line=FF4FD8&point=C084FC&area=true&hide_border=true"/>
-
-</div>
-<!-- ================================================= -->
-<!--                 ☁️ INSPIRATION                    -->
-<!-- ================================================= -->
 
 <div align="center">
 
@@ -423,21 +331,13 @@ A responsive restaurant website focused on elegant UI, smooth animations, and a 
 > 💜 *"I don't just want to build software. I want to build experiences that people remember."*
 
 </div>
-<!-- ================================================= -->
-<!--                💎 LET'S CONNECT                   -->
-<!-- ================================================= -->
+
 
 <div align="center">
 
-# 💎 Let's Connect
+# Let's Connect 🫴🏻
 
-### *Open to opportunities, collaborations, and meaningful conversations.*
-
-<br>
-
-I enjoy connecting with developers, designers, founders, and AI enthusiasts who are passionate about building impactful technology.
-
-Whether it's an exciting project, an internship opportunity, or simply a conversation about AI and software engineering—I'd love to hear from you.
+### *Let's build something amazing together.*
 
 <br>
 
@@ -453,35 +353,21 @@ Whether it's an exciting project, an internship opportunity, or simply a convers
 <img src="https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white&labelColor=140021"/>
 </a>
 
+<a href="https://your-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-D946EF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=140021"/>
+</a>
+
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=mullaaaliya2408-ux&label=Profile%20Views&color=D946EF&style=for-the-badge&labelColor=140021"/>
+<img src="https://komarev.com/ghpvc/?username=mullaaaliya2408-ux&label=Profile%20Views&style=for-the-badge&color=D946EF"/>
 
 </div>
-<!-- ================================================= -->
-<!--                    🌸 FOOTER                      -->
-<!-- ================================================= -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:140021,25:6D28D9,50:A855F7,75:D946EF,100:FF4FD8&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:140021,25:6D28D9,50:A855F7,75:D946EF,100:FF4FD8&height=120&section=footer"/>
 
-### 💜 Thanks for visiting my Digital Universe
+### Thanks for visiting my Digital Universe 💜
 
-*"Designed with curiosity, engineered with purpose, and powered by continuous learning."*
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=3500&pause=1200&color=E879F9&center=true&vCenter=true&width=650&lines=Thanks+for+visiting!+🌸;Keep+building.+Keep+learning.+🚀;See+you+again+soon!+💜"/>
-
-<br><br>
-
-⭐ **If you enjoyed exploring my work, consider following my journey on GitHub!**
-
-<br><br>
-
-Made with 💜 by **Aaliya Mulla**
+<sub>Designed & Developed by Aaliya Mulla</sub>
 
 </div>
-
-
